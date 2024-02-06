@@ -11,6 +11,7 @@ class Api {
     private val baseUrl = "http://192.168.0.11:3000"
 
     val rootUrl = "$baseUrl/"
+    val profileUrl = "$baseUrl/profile"
     val loginUrl = "$baseUrl/login"
 
   }
